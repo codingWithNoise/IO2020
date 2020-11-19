@@ -1,5 +1,5 @@
 
-<h1>Observer Pattern
+<h1>Observer Pattern</h1>
 
 This project is an example of Observer Pattern usage.
 
