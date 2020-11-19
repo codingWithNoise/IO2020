@@ -5,4 +5,4 @@ This project is an example of Observer Pattern usage.
 
 *created for AGH IiE studies*
 
-![uml](https://raw.githubusercontent.com/codingWithNoise/IO2020_ObserverPattern/main/umlAuctionObserver.jpg)
+![uml](https://raw.githubusercontent.com/codingWithNoise/IO2020/main/Observer/umlAuctionObserver.jpg)
